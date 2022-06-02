@@ -11,3 +11,9 @@ Maximize targeting efficiencies and minimize campaign costs.
 
 ## Methodology
 ![](Methodology.JPG?raw=true)
+
+## Results
+
+Based on the logistic regression model, contacting the top %30 (or the top 36,000 out of 120,000) of potential RRSP contributors identified by Vancity produces an optimal profit of $163,950.
+
+![](Profits.JPG?raw=true)
