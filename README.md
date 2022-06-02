@@ -10,4 +10,4 @@ Increase RRSP volumes and new investment dollars.
 Maximize targeting efficiencies and minimize campaign costs.
 
 ## Methodology
-[Illustration](../Methodology.JPG)
+[Illustration](../Methodology.JPG "Illustration")
