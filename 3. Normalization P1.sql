@@ -10,6 +10,8 @@ crew_name TEXT
 );
 select * from title_director;
 
+
+## Warning: Do not execute the following loops on a weak machine unless it's close to Black Friday or Boxing Day. Proceed with caution.
 DROP PROCEDURE IF EXISTS norm;
 DELIMITER \\
 CREATE PROCEDURE norm()
